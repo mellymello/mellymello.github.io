@@ -456,11 +456,6 @@ header {
   cursor: hand;
 }
 
-header h1.sortable:hover {
-    cursor: pointer;
-    cursor: hand;
-}
-
 header h1 {
   letter-spacing: -1px;
   font-size: 72px;
