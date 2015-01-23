@@ -456,7 +456,8 @@ header {
   cursor: hand;
 }
 
-header:hover{
+header h1.sortable:hover {
+    cursor: pointer;
     cursor: hand;
 }
 
